@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "burnout:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "burnout:glowstone"
+  }
+}

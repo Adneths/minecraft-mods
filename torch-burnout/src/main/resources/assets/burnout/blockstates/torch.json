@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=true": {
+      "model": "burnout:block/torch"
+    },
+    "lit=false": {
+      "model": "burnout:block/torch_out"
+    }
+  }
+}
