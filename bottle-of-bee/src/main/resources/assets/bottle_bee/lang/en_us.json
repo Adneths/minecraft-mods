@@ -1,0 +1,35 @@
+{
+	"item.bottle_bee.bottle_of_bee": "Bottle of Bee",
+	"item.bottle_bee.bundle_of_bees": "Bundle of Bees",
+	"item.bottle_bee.bottle_of_killer_bee": "Bottle of Killer Bee",
+	"item.bottle_bee.bundle_of_killer_bees": "Bundle of Killer Bees",
+	"item.bottle_bee.killer_bee_honey_bottle": "Killer Bee Honey Bottle",
+	"item.bottle_bee.venom": "Killer Bee Venom",
+	
+	"item.minecraft.potion.effect.venom": "Potion of Killer Bee Venom",
+	"item.minecraft.potion.effect.long_venom": "Potion of Killer Bee Venom",
+	"item.minecraft.potion.effect.strong_venom": "Potion of Killer Bee Venom",
+	
+	"item.minecraft.splash_potion.effect.venom": "Splash Potion of Killer Bee Venom",
+	"item.minecraft.splash_potion.effect.long_venom": "Splash Potion of Killer Bee Venom",
+	"item.minecraft.splash_potion.effect.strong_venom": "Splash Potion of Killer Bee Venom",
+	
+	"item.minecraft.lingering_potion.effect.venom": "Lingering Potion of Killer Bee Venom",
+	"item.minecraft.lingering_potion.effect.long_venom": "Lingering Potion of Killer Bee Venom",
+	"item.minecraft.lingering_potion.effect.strong_venom": "Lingering Potion of Killer Bee Venom",
+	
+	"item.bottle_bee.bee_suit_helmet": "Apiarist Helmet",
+	"item.bottle_bee.bee_suit_chestplate": "Apiarist Chestplate",
+	"item.bottle_bee.bee_suit_leggings": "Apiarist Leggings",
+	"item.bottle_bee.bee_suit_boots": "Apiarist Boots",
+	
+	"block.bottle_bee.killer_bee_nest": "Killer Bee Nest",
+	
+	"entity.bottle_bee.killer_bee": "Killer Bee",
+	
+	"effect.bottle_bee.paralysis": "Paralysis",
+	
+	"itemGroup.bottle_bee:main": "Bottle of Bee",
+	
+	"attribute.name.generic.sting_resistance": "Sting Resistance"
+}

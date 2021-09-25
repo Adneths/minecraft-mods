@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#O#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bottle_bee:bottle_of_bee"
+    },
+	"O": {
+		"item": "minecraft:slime_ball"
+	}
+  },
+  "result": {
+    "item": "bottle_bee:bundle_of_bees",
+    "count": 1
+  }
+}
