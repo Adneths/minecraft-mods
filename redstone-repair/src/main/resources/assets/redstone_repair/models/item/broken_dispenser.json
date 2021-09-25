@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/dispenser",
+  "overrides": [
+    {
+      "predicate": {
+        "redstone_repair:dispenser_part": 0
+      },
+      "model": "redstone_repair:block/dispensers/dispenser_frame"
+    },
+	{
+      "predicate": {
+        "redstone_repair:dispenser_part": 1
+      },
+      "model": "redstone_repair:block/dispensers/dispenser_launcher"
+    }
+  ]
+}

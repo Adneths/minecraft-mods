@@ -1,0 +1,325 @@
+{
+  "variants": {
+    
+	"delay=1,facing=east,broken_part=base": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_base",
+      "y": 270
+    },
+    "delay=1,facing=north,broken_part=base": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_base",
+      "y": 180
+    },
+    "delay=1,facing=south,broken_part=base": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_base"
+    },
+    "delay=1,facing=west,broken_part=base": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_base",
+      "y": 90
+    },
+
+	"delay=2,facing=east,broken_part=base": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_base",
+      "y": 270
+    },
+    "delay=2,facing=north,broken_part=base": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_base",
+      "y": 180
+    },
+    "delay=2,facing=south,broken_part=base": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_base"
+    },
+    "delay=2,facing=west,broken_part=base": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_base",
+      "y": 90
+    },
+
+	"delay=3,facing=east,broken_part=base": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_base",
+      "y": 270
+    },
+    "delay=3,facing=north,broken_part=base": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_base",
+      "y": 180
+    },
+    "delay=3,facing=south,broken_part=base": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_base"
+    },
+    "delay=3,facing=west,broken_part=base": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_base",
+      "y": 90
+    },
+
+	"delay=4,facing=east,broken_part=base": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_base",
+      "y": 270
+    },
+    "delay=4,facing=north,broken_part=base": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_base",
+      "y": 180
+    },
+    "delay=4,facing=south,broken_part=base": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_base"
+    },
+    "delay=4,facing=west,broken_part=base": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_base",
+      "y": 90
+    },
+
+	"delay=1,facing=east,broken_part=wire": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_wire",
+      "y": 270
+    },
+    "delay=1,facing=north,broken_part=wire": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_wire",
+      "y": 180
+    },
+    "delay=1,facing=south,broken_part=wire": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_wire"
+    },
+    "delay=1,facing=west,broken_part=wire": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_wire",
+      "y": 90
+    },
+
+	"delay=2,facing=east,broken_part=wire": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_wire",
+      "y": 270
+    },
+    "delay=2,facing=north,broken_part=wire": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_wire",
+      "y": 180
+    },
+    "delay=2,facing=south,broken_part=wire": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_wire"
+    },
+    "delay=2,facing=west,broken_part=wire": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_wire",
+      "y": 90
+    },
+
+	"delay=3,facing=east,broken_part=wire": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_wire",
+      "y": 270
+    },
+    "delay=3,facing=north,broken_part=wire": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_wire",
+      "y": 180
+    },
+    "delay=3,facing=south,broken_part=wire": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_wire"
+    },
+    "delay=3,facing=west,broken_part=wire": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_wire",
+      "y": 90
+    },
+
+	"delay=4,facing=east,broken_part=wire": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_wire",
+      "y": 270
+    },
+    "delay=4,facing=north,broken_part=wire": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_wire",
+      "y": 180
+    },
+    "delay=4,facing=south,broken_part=wire": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_wire"
+    },
+    "delay=4,facing=west,broken_part=wire": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_wire",
+      "y": 90
+    },
+
+	"delay=1,facing=east,broken_part=torch_front": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_torch_front",
+      "y": 270
+    },
+    "delay=1,facing=north,broken_part=torch_front": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_torch_front",
+      "y": 180
+    },
+    "delay=1,facing=south,broken_part=torch_front": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_torch_front"
+    },
+    "delay=1,facing=west,broken_part=torch_front": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_torch_front",
+      "y": 90
+    },
+
+	"delay=2,facing=east,broken_part=torch_front": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_torch_front",
+      "y": 270
+    },
+    "delay=2,facing=north,broken_part=torch_front": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_torch_front",
+      "y": 180
+    },
+    "delay=2,facing=south,broken_part=torch_front": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_torch_front"
+    },
+    "delay=2,facing=west,broken_part=torch_front": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_torch_front",
+      "y": 90
+    },
+
+	"delay=3,facing=east,broken_part=torch_front": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_torch_front",
+      "y": 270
+    },
+    "delay=3,facing=north,broken_part=torch_front": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_torch_front",
+      "y": 180
+    },
+    "delay=3,facing=south,broken_part=torch_front": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_torch_front"
+    },
+    "delay=3,facing=west,broken_part=torch_front": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_torch_front",
+      "y": 90
+    },
+
+	"delay=4,facing=east,broken_part=torch_front": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_torch_front",
+      "y": 270
+    },
+    "delay=4,facing=north,broken_part=torch_front": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_torch_front",
+      "y": 180
+    },
+    "delay=4,facing=south,broken_part=torch_front": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_torch_front"
+    },
+    "delay=4,facing=west,broken_part=torch_front": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_torch_front",
+      "y": 90
+    },
+
+	"delay=1,facing=east,broken_part=torch_back": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_torch_back",
+      "y": 270
+    },
+    "delay=1,facing=north,broken_part=torch_back": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_torch_back",
+      "y": 180
+    },
+    "delay=1,facing=south,broken_part=torch_back": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_torch_back"
+    },
+    "delay=1,facing=west,broken_part=torch_back": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_torch_back",
+      "y": 90
+    },
+
+	"delay=2,facing=east,broken_part=torch_back": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_torch_back",
+      "y": 270
+    },
+    "delay=2,facing=north,broken_part=torch_back": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_torch_back",
+      "y": 180
+    },
+    "delay=2,facing=south,broken_part=torch_back": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_torch_back"
+    },
+    "delay=2,facing=west,broken_part=torch_back": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_torch_back",
+      "y": 90
+    },
+
+	"delay=3,facing=east,broken_part=torch_back": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_torch_back",
+      "y": 270
+    },
+    "delay=3,facing=north,broken_part=torch_back": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_torch_back",
+      "y": 180
+    },
+    "delay=3,facing=south,broken_part=torch_back": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_torch_back"
+    },
+    "delay=3,facing=west,broken_part=torch_back": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_torch_back",
+      "y": 90
+    },
+
+	"delay=4,facing=east,broken_part=torch_back": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_torch_back",
+      "y": 270
+    },
+    "delay=4,facing=north,broken_part=torch_back": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_torch_back",
+      "y": 180
+    },
+    "delay=4,facing=south,broken_part=torch_back": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_torch_back"
+    },
+    "delay=4,facing=west,broken_part=torch_back": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_torch_back",
+      "y": 90
+    },
+
+	"delay=1,facing=east,broken_part=torches": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_torches",
+      "y": 270
+    },
+    "delay=1,facing=north,broken_part=torches": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_torches",
+      "y": 180
+    },
+    "delay=1,facing=south,broken_part=torches": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_torches"
+    },
+    "delay=1,facing=west,broken_part=torches": {
+      "model": "redstone_repair:block/repeaters/repeater_1tick_torches",
+      "y": 90
+    },
+
+	"delay=2,facing=east,broken_part=torches": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_torches",
+      "y": 270
+    },
+    "delay=2,facing=north,broken_part=torches": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_torches",
+      "y": 180
+    },
+    "delay=2,facing=south,broken_part=torches": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_torches"
+    },
+    "delay=2,facing=west,broken_part=torches": {
+      "model": "redstone_repair:block/repeaters/repeater_2tick_torches",
+      "y": 90
+    },
+
+	"delay=3,facing=east,broken_part=torches": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_torches",
+      "y": 270
+    },
+    "delay=3,facing=north,broken_part=torches": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_torches",
+      "y": 180
+    },
+    "delay=3,facing=south,broken_part=torches": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_torches"
+    },
+    "delay=3,facing=west,broken_part=torches": {
+      "model": "redstone_repair:block/repeaters/repeater_3tick_torches",
+      "y": 90
+    },
+
+	"delay=4,facing=east,broken_part=torches": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_torches",
+      "y": 270
+    },
+    "delay=4,facing=north,broken_part=torches": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_torches",
+      "y": 180
+    },
+    "delay=4,facing=south,broken_part=torches": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_torches"
+    },
+    "delay=4,facing=west,broken_part=torches": {
+      "model": "redstone_repair:block/repeaters/repeater_4tick_torches",
+      "y": 90
+    }
+	
+  }
+}

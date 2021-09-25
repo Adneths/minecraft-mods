@@ -1,0 +1,119 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "redstone_repair:broken_comparator",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:comparator_part\": \"base\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_comparator",
+				  "properties": {"broken_part": "base"}
+				}
+			  ]
+            },
+			{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:comparator_part\": \"wire\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_comparator",
+				  "properties": {"broken_part": "wire"}
+				}
+			  ]
+            },{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:comparator_part\": \"all\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_comparator",
+				  "properties": {"broken_part": "all"}
+				}
+			  ]
+            },{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:comparator_part\": \"front_left\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_comparator",
+				  "properties": {"broken_part": "front_left"}
+				}
+			  ]
+            },{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:comparator_part\": \"front_right\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_comparator",
+				  "properties": {"broken_part": "front_right"}
+				}
+			  ]
+            },{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:comparator_part\": \"left_right\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_comparator",
+				  "properties": {"broken_part": "left_right"}
+				}
+			  ]
+            },{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:comparator_part\": \"front\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_comparator",
+				  "properties": {"broken_part": "front"}
+				}
+			  ]
+            },
+			{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:comparator_part\": \"left\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_comparator",
+				  "properties": {"broken_part": "left"}
+				}
+			  ]
+            },{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:comparator_part\": \"right\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_comparator",
+				  "properties": {"broken_part": "right"}
+				}
+			  ]
+            },{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:comparator_part\": \"crystal\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_comparator",
+				  "properties": {"broken_part": "crystal"}
+				}
+			  ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

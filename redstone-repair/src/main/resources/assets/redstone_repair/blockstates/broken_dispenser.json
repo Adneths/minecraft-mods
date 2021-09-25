@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=down,broken_part=frame": {
+      "model": "redstone_repair:block/dispensers/dispenser_vertical_frame",
+      "x": 180
+    },
+    "facing=east,broken_part=frame": {
+      "model": "redstone_repair:block/dispensers/dispenser_frame",
+      "y": 90
+    },
+    "facing=north,broken_part=frame": {
+      "model": "redstone_repair:block/dispensers/dispenser_frame"
+    },
+    "facing=south,broken_part=frame": {
+      "model": "redstone_repair:block/dispensers/dispenser_frame",
+      "y": 180
+    },
+    "facing=up,broken_part=frame": {
+      "model": "redstone_repair:block/dispensers/dispenser_vertical_frame"
+    },
+    "facing=west,broken_part=frame": {
+      "model": "redstone_repair:block/dispensers/dispenser_frame",
+      "y": 270
+    },
+	
+	"facing=down,broken_part=launcher": {
+      "model": "redstone_repair:block/dispensers/dispenser_vertical_launcher",
+      "x": 180
+    },
+    "facing=east,broken_part=launcher": {
+      "model": "redstone_repair:block/dispensers/dispenser_launcher",
+      "y": 90
+    },
+    "facing=north,broken_part=launcher": {
+      "model": "redstone_repair:block/dispensers/dispenser_launcher"
+    },
+    "facing=south,broken_part=launcher": {
+      "model": "redstone_repair:block/dispensers/dispenser_launcher",
+      "y": 180
+    },
+    "facing=up,broken_part=launcher": {
+      "model": "redstone_repair:block/dispensers/dispenser_vertical_launcher"
+    },
+    "facing=west,broken_part=launcher": {
+      "model": "redstone_repair:block/dispensers/dispenser_launcher",
+      "y": 270
+    }
+  }
+}

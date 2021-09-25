@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "redstone_repair:broken_dispenser",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:dispenser_part\": \"frame\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_dispenser",
+				  "properties": {"broken_part": "frame"}
+				}
+			  ]
+            },
+			{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:dispenser_part\": \"launcher\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_dispenser",
+				  "properties": {"broken_part": "launcher"}
+				}
+			  ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

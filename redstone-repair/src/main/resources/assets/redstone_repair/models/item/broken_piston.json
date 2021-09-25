@@ -1,0 +1,23 @@
+{
+  "parent": "redstone_repair:block/pistons/piston_frame_inventory",
+  "overrides": [
+    {
+      "predicate": {
+        "redstone_repair:piston_part": 0
+      },
+      "model": "redstone_repair:block/pistons/piston_frame_inventory"
+    },
+	{
+      "predicate": {
+        "redstone_repair:piston_part": 1
+      },
+      "model": "redstone_repair:block/pistons/piston_rod_inventory"
+    },
+	{
+      "predicate": {
+        "redstone_repair:piston_part": 2
+      },
+      "model": "redstone_repair:block/pistons/piston_head_inventory"
+    }
+  ]
+}

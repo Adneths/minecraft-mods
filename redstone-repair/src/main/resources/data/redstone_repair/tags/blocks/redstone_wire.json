@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:redstone_wire",
+	"redstone_repair:broken_redstone_wire"
+  ]
+}

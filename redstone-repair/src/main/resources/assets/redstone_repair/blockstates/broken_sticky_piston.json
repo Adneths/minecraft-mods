@@ -1,0 +1,33 @@
+{
+  "variants": {
+	"broken_part=frame,facing=down": {"x": 90, "model": "redstone_repair:block/pistons/sticky_piston_broken_frame"},
+	"broken_part=rod,facing=down": {"x": 90, "model": "minecraft:block/sticky_piston"},
+	"broken_part=head,facing=down": {"x": 90, "model": "redstone_repair:block/pistons/sticky_piston_broken_head"},
+	"broken_part=slime,facing=down": {"x": 90, "model": "redstone_repair:block/pistons/sticky_piston_broken_slime"},
+	
+	"broken_part=frame,facing=up": {"x": 270, "model": "redstone_repair:block/pistons/sticky_piston_broken_frame"},
+	"broken_part=rod,facing=up": {"x": 270, "model": "minecraft:block/sticky_piston"},
+	"broken_part=head,facing=up": {"x": 270, "model": "redstone_repair:block/pistons/sticky_piston_broken_head"},
+	"broken_part=slime,facing=up": {"x": 270, "model": "redstone_repair:block/pistons/sticky_piston_broken_slime"},
+	
+	"broken_part=frame,facing=north": {"model": "redstone_repair:block/pistons/sticky_piston_broken_frame"},
+	"broken_part=rod,facing=north": {"model": "minecraft:block/sticky_piston"},
+	"broken_part=head,facing=north": {"model": "redstone_repair:block/pistons/sticky_piston_broken_head"},
+	"broken_part=slime,facing=north": {"model": "redstone_repair:block/pistons/sticky_piston_broken_slime"},
+	
+	"broken_part=frame,facing=south": {"y": 180, "model": "redstone_repair:block/pistons/sticky_piston_broken_frame"},
+	"broken_part=rod,facing=south": {"y": 180, "model": "minecraft:block/sticky_piston"},
+	"broken_part=head,facing=south": {"y": 180, "model": "redstone_repair:block/pistons/sticky_piston_broken_head"},
+	"broken_part=slime,facing=south": {"y": 180, "model": "redstone_repair:block/pistons/sticky_piston_broken_slime"},
+	
+	"broken_part=frame,facing=east": {"y": 90, "model": "redstone_repair:block/pistons/sticky_piston_broken_frame"},
+	"broken_part=rod,facing=east": {"y": 90, "model": "minecraft:block/sticky_piston"},
+	"broken_part=head,facing=east": {"y": 90, "model": "redstone_repair:block/pistons/sticky_piston_broken_head"},
+	"broken_part=slime,facing=east": {"y": 90, "model": "redstone_repair:block/pistons/sticky_piston_broken_slime"},
+	
+	"broken_part=frame,facing=west": {"y": 270, "model": "redstone_repair:block/pistons/sticky_piston_broken_frame"},
+	"broken_part=rod,facing=west": {"y": 270, "model": "minecraft:block/sticky_piston"},
+	"broken_part=head,facing=west": {"y": 270, "model": "redstone_repair:block/pistons/sticky_piston_broken_head"},
+	"broken_part=slime,facing=west": {"y": 270, "model": "redstone_repair:block/pistons/sticky_piston_broken_slime"}
+  }
+}

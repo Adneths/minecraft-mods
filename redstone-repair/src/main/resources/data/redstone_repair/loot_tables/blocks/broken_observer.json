@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "redstone_repair:broken_observer",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:observer_part\": \"frame\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_observer",
+				  "properties": {"broken_part": "frame"}
+				}
+			  ]
+            },
+			{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:observer_part\": \"sensor\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_observer",
+				  "properties": {"broken_part": "sensor"}
+				}
+			  ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
