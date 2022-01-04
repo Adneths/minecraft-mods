@@ -1,0 +1,7 @@
+{
+    "parent": "advdragonfight:block/fire_side_alt",
+    "textures": {
+        "particle": "advdragonfight:block/fire_0",
+        "fire": "advdragonfight:block/fire_0"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "advdragonfight:block/fire_up",
+    "textures": {
+        "particle": "advdragonfight:block/fire_0",
+        "fire": "advdragonfight:block/fire_0"
+    }
+}

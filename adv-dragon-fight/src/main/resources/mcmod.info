@@ -1,0 +1,16 @@
+[
+{
+  "modid": "advdragonfight",
+  "name": "Advanced Dragon Fight",
+  "description": "Makes the Ender Dragon fight more difficult",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Endercraft_O"],
+  "credits": "Endercraft_O",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

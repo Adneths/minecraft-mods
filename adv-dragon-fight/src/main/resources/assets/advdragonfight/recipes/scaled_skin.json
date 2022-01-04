@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+    [
+        "SSS",
+        "SsS",
+        "SSS"
+    ],
+    "key":
+    {
+        "S":
+        {
+            "item": "advdragonfight:dragon_scale"
+        },
+		"s":
+        {
+            "item": "advdragonfight:dragon_skin"
+        }
+    },
+	"result":
+	{
+		"item": "advdragonfight:scaled_skin",
+		"count": 1
+	}
+}

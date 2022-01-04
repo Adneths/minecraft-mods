@@ -1,0 +1,5 @@
+{
+	"recipes": {
+		"upgrade_armor": "me.adneths.advdragonfight.recipe.ArmorUpgradeRecipe$Factory"
+	}
+}

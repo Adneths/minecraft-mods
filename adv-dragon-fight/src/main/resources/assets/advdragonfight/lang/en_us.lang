@@ -1,0 +1,17 @@
+entity.advdragonfight.HealthedEnderCrystal.name=Ender Crystal
+entity.advdragonfight.HardenedEndermite.name=Hardened Endermite
+entity.advdragonfight.ScaleArrow.name=Dragon Scale
+entity.advdragonfight.DivingBabyDragon.name=Dragon Minion
+entity.advdragonfight.HealingBabyDragon.name=Dragon Minion
+entity.advdragonfight.FireBabyDragon.name=Dragon Minion
+entity.advdragonfight.ScaledDragon.name=Ender Dragon
+entity.advdragonfight.EnderGuardian.name=Ender Guardian
+
+itemGroup.advdragonfight:main=Advanced Dragon Fight
+item.advdragonfight:dragon_scale.name=Dragon Scale
+item.advdragonfight:dragon_skin.name=Dragon Skin
+item.advdragonfight:scaled_skin.name=Scaled Skin
+item.advdragonfight:diff_adjuster.name=Difficulty Adjuster
+
+death.attack.scale=%1$s was shot by %2$s
+death.attack.dragon_fire=%1$s burnt in dragon fire
