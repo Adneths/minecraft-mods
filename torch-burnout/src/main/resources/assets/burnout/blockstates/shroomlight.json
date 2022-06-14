@@ -1,0 +1,10 @@
+{
+  "variants": {
+	"lit=true": {
+      "model": "minecraft:block/shroomlight"
+    },
+	"lit=false": {
+      "model": "burnout:block/shroomlight"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+	"itemGroup.burnout.burnout": "Burnout",
+	"burnout:torch": "Torch",
+	"burnout:soul_torch": "Soul Torch",
+	"burnout:glowstone": "Glowstone",
+	"burnout:sea_lantern": "Sea Lantern",
+	"burnout:shroomlight": "Shroomlight",
+	"burnout:lantern": "Lantern",
+	"burnout:soul_lantern": "Soul Lantern",
+	"burnout:jack_o_lantern": "Jack o'Lantern",
+	"burnout:end_rod": "End Rod",
+	"burnout:redstone_lamp": "Redstone Lamp",
+	"burnout:campfire": "Campfire",
+	"burnout:soul_campfire": "Soul Campfire",
+	"burnout:glowstone_dust": "Unglowing Glowstone Dust",
+	
+	"burnout:drain_fuel_tool": "Drain Fuel Tool"
+}

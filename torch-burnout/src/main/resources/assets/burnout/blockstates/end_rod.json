@@ -1,0 +1,56 @@
+{
+  "variants": {
+    "facing=down,lit=true": {
+      "model": "minecraft:block/end_rod",
+      "x": 180
+    },
+    "facing=east,lit=true": {
+      "model": "minecraft:block/end_rod",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north,lit=true": {
+      "model": "minecraft:block/end_rod",
+      "x": 90
+    },
+    "facing=south,lit=true": {
+      "model": "minecraft:block/end_rod",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up,lit=true": {
+      "model": "minecraft:block/end_rod"
+    },
+    "facing=west,lit=true": {
+      "model": "minecraft:block/end_rod",
+      "x": 90,
+      "y": 270
+    },
+	"facing=down,lit=false": {
+      "model": "burnout:block/end_rod",
+      "x": 180
+    },
+    "facing=east,lit=false": {
+      "model": "burnout:block/end_rod",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north,lit=false": {
+      "model": "burnout:block/end_rod",
+      "x": 90
+    },
+    "facing=south,lit=false": {
+      "model": "burnout:block/end_rod",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up,lit=false": {
+      "model": "burnout:block/end_rod"
+    },
+    "facing=west,lit=false": {
+      "model": "burnout:block/end_rod",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

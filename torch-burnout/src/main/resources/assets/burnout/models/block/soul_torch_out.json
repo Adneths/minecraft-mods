@@ -1,0 +1,6 @@
+{
+  "parent": "burnout:block/template_torch",
+  "textures": {
+    "torch": "burnout:block/soul_torch_out"
+  }
+}

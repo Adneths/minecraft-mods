@@ -1,0 +1,10 @@
+{
+  "variants": {
+	"lit=true": {
+      "model": "minecraft:block/sea_lantern"
+    },
+	"lit=false": {
+      "model": "burnout:block/sea_lantern"
+    }
+  }
+}
