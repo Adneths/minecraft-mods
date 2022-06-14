@@ -1,0 +1,68 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "redstone_repair:broken_repeater",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:repeater_part\": \"base\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_repeater",
+				  "properties": {"broken_part": "base"}
+				}
+			  ]
+            },
+			{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:repeater_part\": \"wire\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_repeater",
+				  "properties": {"broken_part": "wire"}
+				}
+			  ]
+            },{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:repeater_part\": \"torch_front\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_repeater",
+				  "properties": {"broken_part": "torch_front"}
+				}
+			  ]
+            },{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:repeater_part\": \"torch_back\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_repeater",
+				  "properties": {"broken_part": "torch_back"}
+				}
+			  ]
+            },{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:repeater_part\": \"torches\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_repeater",
+				  "properties": {"broken_part": "torches"}
+				}
+			  ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

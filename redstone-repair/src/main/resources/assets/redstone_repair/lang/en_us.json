@@ -1,0 +1,38 @@
+{
+	"block.redstone_repair.broken_redstone_lamp": "Broken Redstone Lamp",
+	"block.redstone_repair.broken_redstone_torch": "Burntout Redstone Torch",
+	
+	"block.redstone_repair.broken_piston.head": "Piston with Broken Head",
+	"block.redstone_repair.broken_piston.rod": "Piston with Broken Shaft",
+	"block.redstone_repair.broken_piston.frame": "Piston with Broken Frame",
+	
+	"block.redstone_repair.broken_sticky_piston.head": "Sticky Piston with Broken Head",
+	"block.redstone_repair.broken_sticky_piston.rod": "Sticky Piston with Broken Shaft",
+	"block.redstone_repair.broken_sticky_piston.frame": "Sticky Piston with Broken Frame",
+	"block.redstone_repair.broken_sticky_piston.slime": "Sticky Piston with Smudged Slime",
+	
+	"block.redstone_repair.broken_repeater.base": "Repeater with Broken Base",
+	"block.redstone_repair.broken_repeater.wire": "Repeater with Burntout Wiring",
+	"block.redstone_repair.broken_repeater.torch_front": "Repeater with Burntout Front Torch",
+	"block.redstone_repair.broken_repeater.torch_back": "Repeater with Burntout Back Torch",
+	"block.redstone_repair.broken_repeater.torches": "Repeater with Burntout Torches",
+	
+	"block.redstone_repair.broken_comparator.all": "Comparator with All Torches Burntout",
+	"block.redstone_repair.broken_comparator.wire": "Comparator with Burntout Wiring",
+	"block.redstone_repair.broken_comparator.base": "Comparator with Broken Base",
+	"block.redstone_repair.broken_comparator.crystal": "Comparator with Shattered Crystal",
+	"block.redstone_repair.broken_comparator.front": "Comparator with Burntout Front Torch",
+	"block.redstone_repair.broken_comparator.left": "Comparator with Burntout Left Torch",
+	"block.redstone_repair.broken_comparator.right": "Comparator with Burntout Right Torch",
+	"block.redstone_repair.broken_comparator.left_right": "Comparator with Left and Right Torches Burntout",
+	"block.redstone_repair.broken_comparator.front_left": "Comparator with Front and Left Torches Burntout",
+	"block.redstone_repair.broken_comparator.front_right": "Comparator with Front and Right Torches Burntout",
+	
+	"block.redstone_repair.broken_dropper": "Dropper with Broken Frame",
+	"block.redstone_repair.broken_dispenser.frame": "Dispenser with Broken Frame",
+	"block.redstone_repair.broken_dispenser.launcher": "Dispenser with Broken Launch Mechanism",
+	"block.redstone_repair.broken_observer.frame": "Observer with Broken Frame",
+	"block.redstone_repair.broken_observer.sensor": "Observer with Broken Sensors",
+	
+	"itemGroup.redstone_repair.main": "Redstone Repair"
+}

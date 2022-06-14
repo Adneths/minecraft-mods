@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/repeater"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "redstone_repair:repeater_part": 0
+      },
+      "model": "redstone_repair:item/repeaters/base"
+    },
+    {
+      "predicate": {
+        "redstone_repair:repeater_part": 1
+      },
+      "model": "redstone_repair:item/repeaters/wire"
+    },
+    {
+      "predicate": {
+        "redstone_repair:repeater_part": 2
+      },
+      "model": "redstone_repair:item/repeaters/front"
+    },
+    {
+      "predicate": {
+        "redstone_repair:repeater_part": 3
+      },
+      "model": "redstone_repair:item/repeaters/back"
+    },
+    {
+      "predicate": {
+        "redstone_repair:repeater_part": 4
+      },
+      "model": "redstone_repair:item/repeaters/both"
+    }
+  ]
+}

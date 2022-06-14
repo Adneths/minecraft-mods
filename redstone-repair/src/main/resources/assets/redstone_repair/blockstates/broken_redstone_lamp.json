@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "redstone_repair:block/redstone_lamp"
+    }
+  }
+}

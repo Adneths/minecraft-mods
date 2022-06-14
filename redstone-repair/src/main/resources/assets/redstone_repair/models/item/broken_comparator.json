@@ -1,0 +1,68 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/comparator"
+  },
+  "overrides": [
+    	{
+      "predicate": {
+        "redstone_repair:repeater_part": 0
+      },
+      "model": "redstone_repair:item/comparators/all"
+    },
+	{
+      "predicate": {
+        "redstone_repair:repeater_part": 1
+      },
+      "model": "redstone_repair:item/comparators/front_left"
+    },
+	{
+      "predicate": {
+        "redstone_repair:repeater_part": 2
+      },
+      "model": "redstone_repair:item/comparators/front_right"
+    },
+	{
+      "predicate": {
+        "redstone_repair:repeater_part": 3
+      },
+      "model": "redstone_repair:item/comparators/left_right"
+    },
+	{
+      "predicate": {
+        "redstone_repair:repeater_part": 4
+      },
+      "model": "redstone_repair:item/comparators/front"
+    },
+	{
+      "predicate": {
+        "redstone_repair:repeater_part": 5
+      },
+      "model": "redstone_repair:item/comparators/left"
+    },
+	{
+      "predicate": {
+        "redstone_repair:repeater_part": 6
+      },
+      "model": "redstone_repair:item/comparators/right"
+    },
+	{
+      "predicate": {
+        "redstone_repair:repeater_part": 7
+      },
+      "model": "redstone_repair:item/comparators/crystal"
+    },
+	{
+      "predicate": {
+        "redstone_repair:repeater_part": 8
+      },
+      "model": "redstone_repair:item/comparators/base"
+    },
+	{
+      "predicate": {
+        "redstone_repair:repeater_part": 9
+      },
+      "model": "redstone_repair:item/comparators/wire"
+    }
+  ]
+}

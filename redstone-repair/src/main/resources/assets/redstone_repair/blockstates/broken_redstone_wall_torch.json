@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "redstone_repair:block/redstone_wall_torch"
+    },
+    "facing=north": {
+      "model": "redstone_repair:block/redstone_wall_torch",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "redstone_repair:block/redstone_wall_torch",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "redstone_repair:block/redstone_wall_torch",
+      "y": 180
+    }
+  }
+}

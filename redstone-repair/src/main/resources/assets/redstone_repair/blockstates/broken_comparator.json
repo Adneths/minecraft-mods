@@ -1,0 +1,304 @@
+{
+  "variants": {
+    "facing=east,mode=compare,broken_part=all": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_all"
+    },
+    "facing=east,mode=subtract,broken_part=all": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_subtract_all"
+    },
+    "facing=north,mode=compare,broken_part=all": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_all"
+    },
+    "facing=north,mode=subtract,broken_part=all": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_subtract_all"
+    },
+    "facing=south,mode=compare,broken_part=all": {
+      "model": "redstone_repair:block/comparators/comparator_all"
+    },
+    "facing=south,mode=subtract,broken_part=all": {
+      "model": "redstone_repair:block/comparators/comparator_subtract_all"
+    },
+    "facing=west,mode=compare,broken_part=all": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_all"
+    },
+    "facing=west,mode=subtract,broken_part=all": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_subtract_all"
+    },
+    "facing=east,mode=compare,broken_part=front_left": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_front_left"
+    },
+    "facing=east,mode=subtract,broken_part=front_left": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_subtract_front_left"
+    },
+    "facing=north,mode=compare,broken_part=front_left": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_front_left"
+    },
+    "facing=north,mode=subtract,broken_part=front_left": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_subtract_front_left"
+    },
+    "facing=south,mode=compare,broken_part=front_left": {
+      "model": "redstone_repair:block/comparators/comparator_front_left"
+    },
+    "facing=south,mode=subtract,broken_part=front_left": {
+      "model": "redstone_repair:block/comparators/comparator_subtract_front_left"
+    },
+    "facing=west,mode=compare,broken_part=front_left": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_front_left"
+    },
+    "facing=west,mode=subtract,broken_part=front_left": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_subtract_front_left"
+    },
+    "facing=east,mode=compare,broken_part=front_right": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_front_right"
+    },
+    "facing=east,mode=subtract,broken_part=front_right": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_subtract_front_right"
+    },
+    "facing=north,mode=compare,broken_part=front_right": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_front_right"
+    },
+    "facing=north,mode=subtract,broken_part=front_right": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_subtract_front_right"
+    },
+    "facing=south,mode=compare,broken_part=front_right": {
+      "model": "redstone_repair:block/comparators/comparator_front_right"
+    },
+    "facing=south,mode=subtract,broken_part=front_right": {
+      "model": "redstone_repair:block/comparators/comparator_subtract_front_right"
+    },
+    "facing=west,mode=compare,broken_part=front_right": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_front_right"
+    },
+    "facing=west,mode=subtract,broken_part=front_right": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_subtract_front_right"
+    },
+    "facing=east,mode=compare,broken_part=left_right": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_left_right"
+    },
+    "facing=east,mode=subtract,broken_part=left_right": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_subtract_left_right"
+    },
+    "facing=north,mode=compare,broken_part=left_right": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_left_right"
+    },
+    "facing=north,mode=subtract,broken_part=left_right": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_subtract_left_right"
+    },
+    "facing=south,mode=compare,broken_part=left_right": {
+      "model": "redstone_repair:block/comparators/comparator_left_right"
+    },
+    "facing=south,mode=subtract,broken_part=left_right": {
+      "model": "redstone_repair:block/comparators/comparator_subtract_left_right"
+    },
+    "facing=west,mode=compare,broken_part=left_right": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_left_right"
+    },
+    "facing=west,mode=subtract,broken_part=left_right": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_subtract_left_right"
+    },
+    "facing=east,mode=compare,broken_part=front": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_front"
+    },
+    "facing=east,mode=subtract,broken_part=front": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_subtract_front"
+    },
+    "facing=north,mode=compare,broken_part=front": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_front"
+    },
+    "facing=north,mode=subtract,broken_part=front": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_subtract_front"
+    },
+    "facing=south,mode=compare,broken_part=front": {
+      "model": "redstone_repair:block/comparators/comparator_front"
+    },
+    "facing=south,mode=subtract,broken_part=front": {
+      "model": "redstone_repair:block/comparators/comparator_subtract_front"
+    },
+    "facing=west,mode=compare,broken_part=front": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_front"
+    },
+    "facing=west,mode=subtract,broken_part=front": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_subtract_front"
+    },
+    "facing=east,mode=compare,broken_part=left": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_left"
+    },
+    "facing=east,mode=subtract,broken_part=left": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_subtract_left"
+    },
+    "facing=north,mode=compare,broken_part=left": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_left"
+    },
+    "facing=north,mode=subtract,broken_part=left": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_subtract_left"
+    },
+    "facing=south,mode=compare,broken_part=left": {
+      "model": "redstone_repair:block/comparators/comparator_left"
+    },
+    "facing=south,mode=subtract,broken_part=left": {
+      "model": "redstone_repair:block/comparators/comparator_subtract_left"
+    },
+    "facing=west,mode=compare,broken_part=left": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_left"
+    },
+    "facing=west,mode=subtract,broken_part=left": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_subtract_left"
+    },
+    "facing=east,mode=compare,broken_part=right": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_right"
+    },
+    "facing=east,mode=subtract,broken_part=right": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_subtract_right"
+    },
+    "facing=north,mode=compare,broken_part=right": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_right"
+    },
+    "facing=north,mode=subtract,broken_part=right": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_subtract_right"
+    },
+    "facing=south,mode=compare,broken_part=right": {
+      "model": "redstone_repair:block/comparators/comparator_right"
+    },
+    "facing=south,mode=subtract,broken_part=right": {
+      "model": "redstone_repair:block/comparators/comparator_subtract_right"
+    },
+    "facing=west,mode=compare,broken_part=right": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_right"
+    },
+    "facing=west,mode=subtract,broken_part=right": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_subtract_right"
+    },
+    "facing=east,mode=compare,broken_part=crystal": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_crystal"
+    },
+    "facing=east,mode=subtract,broken_part=crystal": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_subtract_crystal"
+    },
+    "facing=north,mode=compare,broken_part=crystal": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_crystal"
+    },
+    "facing=north,mode=subtract,broken_part=crystal": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_subtract_crystal"
+    },
+    "facing=south,mode=compare,broken_part=crystal": {
+      "model": "redstone_repair:block/comparators/comparator_crystal"
+    },
+    "facing=south,mode=subtract,broken_part=crystal": {
+      "model": "redstone_repair:block/comparators/comparator_subtract_crystal"
+    },
+    "facing=west,mode=compare,broken_part=crystal": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_crystal"
+    },
+    "facing=west,mode=subtract,broken_part=crystal": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_subtract_crystal"
+    },
+    "facing=east,mode=compare,broken_part=base": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_base"
+    },
+    "facing=east,mode=subtract,broken_part=base": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_subtract_base"
+    },
+    "facing=north,mode=compare,broken_part=base": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_base"
+    },
+    "facing=north,mode=subtract,broken_part=base": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_subtract_base"
+    },
+    "facing=south,mode=compare,broken_part=base": {
+      "model": "redstone_repair:block/comparators/comparator_base"
+    },
+    "facing=south,mode=subtract,broken_part=base": {
+      "model": "redstone_repair:block/comparators/comparator_subtract_base"
+    },
+    "facing=west,mode=compare,broken_part=base": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_base"
+    },
+    "facing=west,mode=subtract,broken_part=base": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_subtract_base"
+    },
+    "facing=east,mode=compare,broken_part=wire": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_wire"
+    },
+    "facing=east,mode=subtract,broken_part=wire": {
+      "y": 270,
+      "model": "redstone_repair:block/comparators/comparator_subtract_wire"
+    },
+    "facing=north,mode=compare,broken_part=wire": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_wire"
+    },
+    "facing=north,mode=subtract,broken_part=wire": {
+      "y": 180,
+      "model": "redstone_repair:block/comparators/comparator_subtract_wire"
+    },
+    "facing=south,mode=compare,broken_part=wire": {
+      "model": "redstone_repair:block/comparators/comparator_wire"
+    },
+    "facing=south,mode=subtract,broken_part=wire": {
+      "model": "redstone_repair:block/comparators/comparator_subtract_wire"
+    },
+    "facing=west,mode=compare,broken_part=wire": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_wire"
+    },
+    "facing=west,mode=subtract,broken_part=wire": {
+      "y": 90,
+      "model": "redstone_repair:block/comparators/comparator_subtract_wire"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/observer",
+  "overrides": [
+    {
+      "predicate": {
+        "redstone_repair:observer_part": 0
+      },
+      "model": "redstone_repair:block/observers/observer_frame"
+    },
+	{
+      "predicate": {
+        "redstone_repair:observer_part": 1
+      },
+      "model": "redstone_repair:block/observers/observer_sensor"
+    }
+  ]
+}

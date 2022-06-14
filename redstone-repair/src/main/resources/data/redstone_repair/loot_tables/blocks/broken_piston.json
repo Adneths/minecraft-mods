@@ -1,0 +1,49 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "redstone_repair:broken_piston",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:piston_part\": \"frame\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_piston",
+				  "properties": {"broken_part": "frame"}
+				}
+			  ]
+            },
+			{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:piston_part\": \"rod\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_piston",
+				  "properties": {"broken_part": "rod"}
+				}
+			  ]
+            },
+			{
+              "function": "minecraft:set_nbt",
+              "tag": "{\"redstone_repair:piston_part\": \"head\"}",
+			  "conditions": [
+				{
+				  "condition": "minecraft:block_state_property",
+				  "block": "redstone_repair:broken_piston",
+				  "properties": {"broken_part": "head"}
+				}
+			  ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
